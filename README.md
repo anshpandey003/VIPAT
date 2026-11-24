@@ -1,7 +1,3 @@
-Here’s a GitHub README file for your VIPAT project, incorporating the details from your document:  
-
----
-
 ### VIPAT - VIT Chennai Placement Cell Automation  
 
 VIPAT is a cutting-edge web application designed to streamline and automate the VIT Chennai Placement Cell process, replacing traditional manual workflows with an efficient digital solution.  
